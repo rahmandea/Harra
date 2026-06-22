@@ -55,7 +55,7 @@ export default function About() {
               />
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-6">
                 <p className="text-white/60 text-xs font-body tracking-[0.2em] uppercase">
-                  Est. 2020
+                  Est. 2026
                 </p>
                 <p className="text-white font-heading text-xl mt-1 tracking-tight">
                   Pangalengan, Bandung
