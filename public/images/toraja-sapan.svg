@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#111111" opacity="0.03"/>
+  <rect x="120" y="40" width="160" height="220" rx="2" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="130" y="60" width="140" height="80" fill="#111111" opacity="0.08"/>
+  <text x="200" y="105" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#111111" opacity="0.7" font-weight="600" letter-spacing="2">TORAJA SAPAN</text>
+  <rect x="140" y="155" width="120" height="1" fill="#E5E5E5" opacity="0.5"/>
+  <text x="200" y="175" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#666666" letter-spacing="1">NATURAL PROCESS</text>
+  <ellipse cx="200" cy="210" rx="20" ry="12" fill="#111111" opacity="0.1"/>
+  <ellipse cx="200" cy="210" rx="8" ry="10" fill="#111111" opacity="0.06"/>
+</svg>

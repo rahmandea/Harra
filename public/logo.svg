@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" fill="none">
+  <line x1="0" y1="12" x2="0" y2="38" stroke="#C8A97E" stroke-width="2.5"/>
+  <text x="10" y="35" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="30" font-weight="700" letter-spacing="4" fill="#111111">HARRA</text>
+  <line x1="160" y1="12" x2="160" y2="38" stroke="#C8A97E" stroke-width="2.5"/>
+</svg>
